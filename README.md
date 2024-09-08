@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fewdo777
 - 👀 I’m interested in programming and electronics
 - 🌱 I’m currently learning m86k C programming
-- 💞️ I’m looking to collaborate on UI/UX
+- 💞️ I’m looking to collaborate on learning more UX over UI
 - ⚡ Fun fact: I'm still hungry and foolish
 
 <!---
